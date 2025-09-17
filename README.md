@@ -39,4 +39,4 @@ Here are some of the methods and properties implemented:
 
 ## 📹 Project Demo  
 
-<video src="demo.mp4" width="600" controls></video>
+https://github.com/Sai-Charan-16/Movies-Website/blob/main/demo.mp4
