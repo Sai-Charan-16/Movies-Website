@@ -1,7 +1,7 @@
 # Movies-Website
 
 Welcome 🖐 to the **Movie App**!  
-This is a **HTML, CSS, and JavaScript** movie website project where users can browse and watch movies directly from the website.  
+This is a **HTML, CSS, and JavaScript** movie website project where users can browse and watch movies clips in youtube from the website.  
 
 ---
 
