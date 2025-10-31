@@ -38,5 +38,4 @@ Here are some of the methods and properties implemented:
 ---
 
 ## 📹 Project Demo  
-
-https://github.com/Sai-Charan-16/Movies-Website/blob/main/demo.mp4
+https://movieswebsi.netlify.app/
